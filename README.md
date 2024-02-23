@@ -1,1 +1,3 @@
 ![image](https://github.com/cdanderson76/bbcNewsClone/assets/138369806/bf8a2114-70cd-4387-90f1-89cf7d581e1b)
+
+This was my first project utilizing CSS Grid.  I think that practicing the fundamentals was fairly straight forward...that is, until I got to the point to where I had to actually put this layout together.  The illustrations really made me lose focus on how the grid actually worked, but once I remembered the concepts of 'grid-template-columns', 'grid-template-rows', 'grid-columns', and so forth, I had began to put it all in place.  This is a very simple layout obviously, but I look forward to completing more projects leveraging CSS Grid in the future.
